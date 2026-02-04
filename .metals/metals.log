@@ -1,0 +1,68 @@
+2026.02.03 18:46:06 INFO  Started: Metals version 1.6.5 in folders '/home/karim/cloud-native-ex/catalog-service' for client Visual Studio Code 1.108.2.
+2026.02.03 18:46:06 INFO  Memory monitor started
+2026.02.03 18:46:06 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.03 18:46:06 INFO  no build target found for /home/karim/cloud-native-ex/catalog-service/src/main/java/com/polarbookshop/catalog_service/CatalogServiceApplication.java. Using fallback presentation compiler.
+2026.02.03 18:46:07 INFO  no build target found for /home/karim/cloud-native-ex/catalog-service/src/main/java/com/polarbookshop/catalog_service/CatalogServiceApplication.java. Using fallback presentation compiler.
+2026.02.03 18:46:09 INFO  running '/home/karim/cloud-native-ex/catalog-service/gradlew --stacktrace --console=plain --init-script /tmp/metals14193590308006653794/init-script.gradle bloopInstall'
+2026.02.03 18:46:09 INFO  no build target found for /home/karim/cloud-native-ex/catalog-service/src/main/java/com/polarbookshop/catalog_service/CatalogServiceApplication.java. Using fallback presentation compiler.
+2026.02.03 18:46:12 INFO  > Task :configureBloopInstall
+2026.02.03 18:46:12 INFO  > Task :bloopInstall
+2026.02.03 18:46:12 INFO  
+2026.02.03 18:46:12 INFO  [Incubating] Problems report is available at: file:///home/karim/cloud-native-ex/catalog-service/build/reports/problems/problems-report.html
+2026.02.03 18:46:12 INFO  
+2026.02.03 18:46:12 INFO  Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+2026.02.03 18:46:12 INFO  
+2026.02.03 18:46:12 INFO  You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+2026.02.03 18:46:12 INFO  
+2026.02.03 18:46:12 INFO  For more on this, please refer to https://docs.gradle.org/9.3.0/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+2026.02.03 18:46:12 INFO  
+2026.02.03 18:46:12 INFO  BUILD SUCCESSFUL in 2s
+2026.02.03 18:46:12 INFO  2 actionable tasks: 2 executed
+2026.02.03 18:46:12 INFO  Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.3.0/userguide/configuration_cache_enabling.html
+2026.02.03 18:46:12 INFO  time: ran 'gradle bloopInstall' in 2.58s
+2026.02.03 18:46:12 INFO  Attempting to connect to the build server...
+2026.02.03 18:46:12 INFO  Found a Bloop server running
+2026.02.03 18:46:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/karim/cloud-native-ex/catalog-service/.metals/bsp.trace.json or /home/karim/.cache/metals/bsp.trace.json
+2026.02.03 18:46:14 INFO  time: Connected to build server in 2.18s
+2026.02.03 18:46:14 INFO  Connected to Build server: Bloop v2.0.18
+2026.02.03 18:46:14 INFO  time: Imported build in 0.14s
+2026.02.03 18:46:19 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.03 18:46:21 INFO  Created report: Optional[file:///home/karim/cloud-native-ex/catalog-service/jar:file:/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/11.0.15/586cea787243bb374cecdc01675423f056e518d5/tomcat-embed-core-11.0.15-sources.jar!/org/apache/catalina/authenticator/jaspic/PersistentProviderRegistrations.java]
+2026.02.03 18:46:21 INFO  Java indexer failed with and exception. (full report at: "/home/karim/cloud-native-ex/catalog-service/.metals/.reports/metals-full/2026-02-03/r_failed-idex-java_18-46-21-135.md")
+2026.02.03 18:46:23 INFO  time: indexed workspace in 9.06s
+2026.02.03 18:46:24 INFO  compiling catalog-service (1 java source)
+2026.02.03 18:46:24 INFO  compiling catalog-service-test (1 java source)
+2026.02.03 18:46:25 INFO  time: compiled catalog-service in 1.36s
+2026.02.03 18:46:25 INFO  time: compiled catalog-service-test in 0.79s
+2026.02.03 19:07:12 INFO  Created report: Optional[file:///home/karim/cloud-native-ex/catalog-service/src/main/java/com/polarbookshop/catalog_service/HomeController.java]
+2026.02.03 19:07:12 INFO  QDox parse error in file:///home/karim/cloud-native-ex/catalog-service/src/main/java/com/polarbookshop/catalog_service/HomeController.java (full report at: "/home/karim/cloud-native-ex/catalog-service/.metals/.reports/metals-full/2026-02-03/r_qdox-error_(catalog-service)_19-07-12-860.md")
+2026.02.03 19:07:12 INFO  compiling catalog-service (1 java source)
+2026.02.03 19:07:12 INFO  time: compiled catalog-service in 0.68s
+Feb 03, 2026 7:07:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 63
+Feb 03, 2026 7:07:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 61
+Feb 03, 2026 7:07:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+Feb 03, 2026 7:07:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 68
+Feb 03, 2026 7:07:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+Feb 03, 2026 7:07:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 70
+Feb 03, 2026 7:07:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 215
+Feb 03, 2026 7:07:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 213
+Feb 03, 2026 7:07:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 219
+Feb 03, 2026 7:07:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 216
+Feb 03, 2026 7:08:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 392
+2026.02.03 19:09:03 INFO  compiling catalog-service (1 java source)
+2026.02.03 19:09:03 INFO  time: compiled catalog-service in 0.67s
+Feb 03, 2026 7:12:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Feb 03, 2026 7:12:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
