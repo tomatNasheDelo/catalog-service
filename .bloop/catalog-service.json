@@ -11,10 +11,12 @@
             
         ],
         "classpath": [
+            "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-validation/4.0.2/f4f23a7ac8485d50ef613a2b06812fd0f43ee083/spring-boot-starter-validation-4.0.2.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-webmvc/4.0.2/90563663cdd252544fd7a8139d1c853740d8e61c/spring-boot-starter-webmvc-4.0.2.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jackson/4.0.2/9e75c7cb0b8ea189acb51cd2d2f25a165746b82b/spring-boot-starter-jackson-4.0.2.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/4.0.2/fbe3d2c53b91570c1570e3a6150df6373aa2aa93/spring-boot-starter-tomcat-4.0.2.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/4.0.2/d31987d4c1f6af48db2a53605829780365354e85/spring-boot-starter-4.0.2.jar",
+            "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-validation/4.0.2/f10acba71e076b3d3606ef334fe8d55de107cd2a/spring-boot-validation-4.0.2.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-http-converter/4.0.2/672071db26ae74b433505a3d52e45cf6effcff70/spring-boot-http-converter-4.0.2.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webmvc/4.0.2/38e00eed171a003cd00ca1f55a453e0cc8c5529e/spring-boot-webmvc-4.0.2.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/4.0.2/96f2e505eb788327b3b170bf965427eecb0717f/spring-boot-starter-logging-4.0.2.jar",
@@ -23,25 +25,29 @@
             "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.annotation/jakarta.annotation-api/3.0.0/54f928fadec906a99d558536756d171917b9d936/jakarta.annotation-api-3.0.0.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/2.5/2d53ddec134280cb384c1e35d094e5f71c1f2316/snakeyaml-2.5.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-jackson/4.0.2/549b2611516613132380ba746326cf2222474c77/spring-boot-jackson-4.0.2.jar",
-            "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-tomcat/4.0.2/11d5828b1a9efb6e256f145b1107cc46b64d41a/spring-boot-tomcat-4.0.2.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-servlet/4.0.2/5cc904d6830095195c1d72b9425c670f45c9aaad/spring-boot-servlet-4.0.2.jar",
+            "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-tomcat/4.0.2/11d5828b1a9efb6e256f145b1107cc46b64d41a/spring-boot-tomcat-4.0.2.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-web-server/4.0.2/1cfc0adecf312f1d94a837d7a3adabe9ae8b5594/spring-boot-web-server-4.0.2.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/4.0.2/577e8d07510cf827be02b0dcd080356978b11616/spring-boot-4.0.2.jar",
+            "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/11.0.15/f20bc5f17baa18abeca76a640ad774d6f80a265b/tomcat-embed-el-11.0.15.jar",
+            "/home/karim/.gradle/caches/modules-2/files-2.1/org.hibernate.validator/hibernate-validator/9.0.1.Final/28c0e41ecc84d1f0b8b6d81d16e0784e63364e68/hibernate-validator-9.0.1.Final.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/7.0.3/8ceb3c7d21b317e87be72c0ba61fcab46b992b29/spring-webmvc-7.0.3.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/7.0.3/3bcdb4075e17a56b148f69fe0d83a4c0662d9258/spring-web-7.0.3.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.5.25/20c4bbe98fb58f50ee1ca6befd7e7731f13a19d3/logback-classic-1.5.25.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-to-slf4j/2.25.3/30adfb40cca243ec88cf7ec1fddb411ab55faa4f/log4j-to-slf4j-2.25.3.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/2.0.17/524cb6ccc2b68a57604750e1ab8b13b5a786a6aa/jul-to-slf4j-2.0.17.jar",
-            "/home/karim/.gradle/caches/modules-2/files-2.1/tools.jackson.core/jackson-core/3.0.4/c5be0f5814e161030c29fc48b92c27331729ab7f/jackson-core-3.0.4.jar",
-            "/home/karim/.gradle/caches/modules-2/files-2.1/tools.jackson.core/jackson-databind/3.0.4/b5f818b0b9c79d344aede4b87064cc0e323f9ef2/jackson-databind-3.0.4.jar",
-            "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/11.0.15/4c0eced7d97fe8404c722d5ff02757a05a6d5033/tomcat-embed-websocket-11.0.15.jar",
-            "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/11.0.15/aa20506537e3efa61afd6b57d79f9da6a55f37ae/tomcat-embed-core-11.0.15.jar",
-            "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/11.0.15/f20bc5f17baa18abeca76a640ad774d6f80a265b/tomcat-embed-el-11.0.15.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/7.0.3/cea94cbc6244f0b4632cb4bb7608a1e4fab8afea/spring-context-7.0.3.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/7.0.3/b5eb117b9e8a84075a3db6e7e52ef2bc7b54163f/spring-aop-7.0.3.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/7.0.3/b3b43093088fe139d78643bcfe8ee9374a0dd892/spring-beans-7.0.3.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/7.0.3/3fbdf8dc6a84d1f2c43c48c97e8220f29fab19d6/spring-expression-7.0.3.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/7.0.3/2072a89e347c63567a83349eb5908131ce6ea601/spring-core-7.0.3.jar",
+            "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.validation/jakarta.validation-api/3.1.1/ec8622148afc5564235d17af80ea80288d0e7f92/jakarta.validation-api-3.1.1.jar",
+            "/home/karim/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.6.1.Final/886afbb445b4016a37c8960a7aef6ebd769ce7e5/jboss-logging-3.6.1.Final.jar",
+            "/home/karim/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.7.3/f61c7e7b81e9249b0f6a05914eff9d54fb09f4a0/classmate-1.7.3.jar",
+            "/home/karim/.gradle/caches/modules-2/files-2.1/tools.jackson.core/jackson-core/3.0.4/c5be0f5814e161030c29fc48b92c27331729ab7f/jackson-core-3.0.4.jar",
+            "/home/karim/.gradle/caches/modules-2/files-2.1/tools.jackson.core/jackson-databind/3.0.4/b5f818b0b9c79d344aede4b87064cc0e323f9ef2/jackson-databind-3.0.4.jar",
+            "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/11.0.15/4c0eced7d97fe8404c722d5ff02757a05a6d5033/tomcat-embed-websocket-11.0.15.jar",
+            "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/11.0.15/aa20506537e3efa61afd6b57d79f9da6a55f37ae/tomcat-embed-core-11.0.15.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-observation/1.16.2/c076389e612fe3702628527c21a13743acafddfc/micrometer-observation-1.16.2.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.5.25/137f4ae0af7acaa0f9600a2ca18ddc9f3a0b899b/logback-core-1.5.25.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.17/d9e58ac9c7779ba3bf8142aff6c830617a7fe60f/slf4j-api-2.0.17.jar",
@@ -52,8 +58,8 @@
             "/home/karim/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.38.0/fc0ae991433e8590ba51cd558421478318a74c8c/error_prone_annotations-2.38.0.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.annotation.bundle/2.0.0/f5c2cd6e670c3c5d440d3003efd5ef2ead5c68eb/org.osgi.annotation.bundle-2.0.0.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.annotation.versioning/1.1.2/dc3cd4ec96c0b3c5459fe00694bd73a816ecf93e/org.osgi.annotation.versioning-1.1.2.jar",
-            "/home/karim/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.20/6a5e7291ea3f2b590a7ce400adb7b3aea4d7e12c/jackson-annotations-2.20.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.3.5/a3fcc5d3c29b2b03433aa2d2f2d2c1b1638924a1/commons-logging-1.3.5.jar",
+            "/home/karim/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.20/6a5e7291ea3f2b590a7ce400adb7b3aea4d7e12c/jackson-annotations-2.20.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.resource/1.0.0/343c88949132984b3f2d4175a72c40b77dc65619/org.osgi.resource-1.0.0.jar",
             "/home/karim/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.service.serviceloader/1.0.0/3728ff37909c6a3c1870b3e851342d9f2bd3cc63/org.osgi.service.serviceloader-1.0.0.jar"
         ],
@@ -92,10 +98,12 @@
                 
             ],
             "classpath": [
+                "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-validation/4.0.2/f4f23a7ac8485d50ef613a2b06812fd0f43ee083/spring-boot-starter-validation-4.0.2.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-webmvc/4.0.2/90563663cdd252544fd7a8139d1c853740d8e61c/spring-boot-starter-webmvc-4.0.2.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jackson/4.0.2/9e75c7cb0b8ea189acb51cd2d2f25a165746b82b/spring-boot-starter-jackson-4.0.2.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/4.0.2/fbe3d2c53b91570c1570e3a6150df6373aa2aa93/spring-boot-starter-tomcat-4.0.2.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/4.0.2/d31987d4c1f6af48db2a53605829780365354e85/spring-boot-starter-4.0.2.jar",
+                "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-validation/4.0.2/f10acba71e076b3d3606ef334fe8d55de107cd2a/spring-boot-validation-4.0.2.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webmvc/4.0.2/38e00eed171a003cd00ca1f55a453e0cc8c5529e/spring-boot-webmvc-4.0.2.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-http-converter/4.0.2/672071db26ae74b433505a3d52e45cf6effcff70/spring-boot-http-converter-4.0.2.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/4.0.2/96f2e505eb788327b3b170bf965427eecb0717f/spring-boot-starter-logging-4.0.2.jar",
@@ -108,29 +116,33 @@
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-servlet/4.0.2/5cc904d6830095195c1d72b9425c670f45c9aaad/spring-boot-servlet-4.0.2.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-web-server/4.0.2/1cfc0adecf312f1d94a837d7a3adabe9ae8b5594/spring-boot-web-server-4.0.2.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/4.0.2/577e8d07510cf827be02b0dcd080356978b11616/spring-boot-4.0.2.jar",
+                "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/11.0.15/f20bc5f17baa18abeca76a640ad774d6f80a265b/tomcat-embed-el-11.0.15.jar",
+                "/home/karim/.gradle/caches/modules-2/files-2.1/org.hibernate.validator/hibernate-validator/9.0.1.Final/28c0e41ecc84d1f0b8b6d81d16e0784e63364e68/hibernate-validator-9.0.1.Final.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/7.0.3/8ceb3c7d21b317e87be72c0ba61fcab46b992b29/spring-webmvc-7.0.3.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/7.0.3/3bcdb4075e17a56b148f69fe0d83a4c0662d9258/spring-web-7.0.3.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.5.25/20c4bbe98fb58f50ee1ca6befd7e7731f13a19d3/logback-classic-1.5.25.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-to-slf4j/2.25.3/30adfb40cca243ec88cf7ec1fddb411ab55faa4f/log4j-to-slf4j-2.25.3.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/2.0.17/524cb6ccc2b68a57604750e1ab8b13b5a786a6aa/jul-to-slf4j-2.0.17.jar",
-                "/home/karim/.gradle/caches/modules-2/files-2.1/tools.jackson.core/jackson-core/3.0.4/c5be0f5814e161030c29fc48b92c27331729ab7f/jackson-core-3.0.4.jar",
-                "/home/karim/.gradle/caches/modules-2/files-2.1/tools.jackson.core/jackson-databind/3.0.4/b5f818b0b9c79d344aede4b87064cc0e323f9ef2/jackson-databind-3.0.4.jar",
-                "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/11.0.15/4c0eced7d97fe8404c722d5ff02757a05a6d5033/tomcat-embed-websocket-11.0.15.jar",
-                "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/11.0.15/aa20506537e3efa61afd6b57d79f9da6a55f37ae/tomcat-embed-core-11.0.15.jar",
-                "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/11.0.15/f20bc5f17baa18abeca76a640ad774d6f80a265b/tomcat-embed-el-11.0.15.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/7.0.3/cea94cbc6244f0b4632cb4bb7608a1e4fab8afea/spring-context-7.0.3.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/7.0.3/b5eb117b9e8a84075a3db6e7e52ef2bc7b54163f/spring-aop-7.0.3.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/7.0.3/b3b43093088fe139d78643bcfe8ee9374a0dd892/spring-beans-7.0.3.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/7.0.3/3fbdf8dc6a84d1f2c43c48c97e8220f29fab19d6/spring-expression-7.0.3.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/7.0.3/2072a89e347c63567a83349eb5908131ce6ea601/spring-core-7.0.3.jar",
+                "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.validation/jakarta.validation-api/3.1.1/ec8622148afc5564235d17af80ea80288d0e7f92/jakarta.validation-api-3.1.1.jar",
+                "/home/karim/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.6.1.Final/886afbb445b4016a37c8960a7aef6ebd769ce7e5/jboss-logging-3.6.1.Final.jar",
+                "/home/karim/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.7.3/f61c7e7b81e9249b0f6a05914eff9d54fb09f4a0/classmate-1.7.3.jar",
+                "/home/karim/.gradle/caches/modules-2/files-2.1/tools.jackson.core/jackson-core/3.0.4/c5be0f5814e161030c29fc48b92c27331729ab7f/jackson-core-3.0.4.jar",
+                "/home/karim/.gradle/caches/modules-2/files-2.1/tools.jackson.core/jackson-databind/3.0.4/b5f818b0b9c79d344aede4b87064cc0e323f9ef2/jackson-databind-3.0.4.jar",
+                "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/11.0.15/4c0eced7d97fe8404c722d5ff02757a05a6d5033/tomcat-embed-websocket-11.0.15.jar",
+                "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/11.0.15/aa20506537e3efa61afd6b57d79f9da6a55f37ae/tomcat-embed-core-11.0.15.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-observation/1.16.2/c076389e612fe3702628527c21a13743acafddfc/micrometer-observation-1.16.2.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.5.25/137f4ae0af7acaa0f9600a2ca18ddc9f3a0b899b/logback-core-1.5.25.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.17/d9e58ac9c7779ba3bf8142aff6c830617a7fe60f/slf4j-api-2.0.17.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.25.3/fb385330d89c2d61058ef649403f214633569205/log4j-api-2.25.3.jar",
-                "/home/karim/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.20/6a5e7291ea3f2b590a7ce400adb7b3aea4d7e12c/jackson-annotations-2.20.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.3.5/a3fcc5d3c29b2b03433aa2d2f2d2c1b1638924a1/commons-logging-1.3.5.jar",
                 "/home/karim/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-commons/1.16.2/58670637cb6e0c5fc855950fed827149779da226/micrometer-commons-1.16.2.jar",
-                "/home/karim/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/7425a601c1c7ec76645a78d22b8c6a627edee507/jspecify-1.0.0.jar"
+                "/home/karim/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/7425a601c1c7ec76645a78d22b8c6a627edee507/jspecify-1.0.0.jar",
+                "/home/karim/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.20/6a5e7291ea3f2b590a7ce400adb7b3aea4d7e12c/jackson-annotations-2.20.jar"
             ]
         },
         "resolution": {
@@ -152,22 +164,6 @@
                     ]
                 },
                 {
-                    "organization": "org.opentest4j",
-                    "name": "opentest4j",
-                    "version": "1.3.0",
-                    "artifacts": [
-                        {
-                            "name": "opentest4j",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.3.0/152ea56b3a72f655d4fd677fc0ef2596c3dd5e6e/opentest4j-1.3.0.jar"
-                        },
-                        {
-                            "name": "opentest4j",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.3.0/afb8ff23cffb021c56f333953aebfe6e8818568e/opentest4j-1.3.0-sources.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "org.springframework",
                     "name": "spring-aop",
                     "version": "7.0.3",
@@ -180,6 +176,22 @@
                         {
                             "name": "spring-aop",
                             "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/7.0.3/b5eb117b9e8a84075a3db6e7e52ef2bc7b54163f/spring-aop-7.0.3.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.reactivestreams",
+                    "name": "reactive-streams",
+                    "version": "1.0.4",
+                    "artifacts": [
+                        {
+                            "name": "reactive-streams",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.4/3864a1320d97d7b045f729a326e1e077661f31b7/reactive-streams-1.0.4.jar"
+                        },
+                        {
+                            "name": "reactive-streams",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.4/d3cddd3497e618c6d3810ef439f13666f889abe4/reactive-streams-1.0.4-sources.jar"
                         }
                     ]
                 },
@@ -264,18 +276,50 @@
                     ]
                 },
                 {
+                    "organization": "io.netty",
+                    "name": "netty-codec-native-quic",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-codec-native-quic",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-native-quic/4.2.9.Final/53eee547f8731254084274d31b82171c51d509fa/netty-codec-native-quic-4.2.9.Final-osx-x86_64.jar"
+                        },
+                        {
+                            "name": "netty-codec-native-quic",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-native-quic/4.2.9.Final/bfeada59431a1014807c93ed8114794263193298/netty-codec-native-quic-4.2.9.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
                     "organization": "org.springframework.boot",
-                    "name": "spring-boot-test-autoconfigure",
+                    "name": "spring-boot-webflux",
                     "version": "4.0.2",
                     "artifacts": [
                         {
-                            "name": "spring-boot-test-autoconfigure",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test-autoconfigure/4.0.2/5d54635e17fe634f17684bec118a9d22325e6111/spring-boot-test-autoconfigure-4.0.2.jar"
+                            "name": "spring-boot-webflux",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webflux/4.0.2/e6bfe03b1c68ae10c27e85f7b881bb48ff84aa89/spring-boot-webflux-4.0.2-sources.jar"
                         },
                         {
-                            "name": "spring-boot-test-autoconfigure",
+                            "name": "spring-boot-webflux",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webflux/4.0.2/2087a8b6884357c9a43cfcda94a49fe1c14e0867/spring-boot-webflux-4.0.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-starter-webflux",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-starter-webflux",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-webflux/4.0.2/b79e5c3d366df1960221bacf6e2103f06a5b8b7/spring-boot-starter-webflux-4.0.2.jar"
+                        },
+                        {
+                            "name": "spring-boot-starter-webflux",
                             "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test-autoconfigure/4.0.2/198c7aae427b9ac0d32b2ab4a2e37017f5cbe879/spring-boot-test-autoconfigure-4.0.2-sources.jar"
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-webflux/4.0.2/b79e5c3d366df1960221bacf6e2103f06a5b8b7/spring-boot-starter-webflux-4.0.2-sources.jar"
                         }
                     ]
                 },
@@ -313,38 +357,6 @@
                 },
                 {
                     "organization": "org.springframework.boot",
-                    "name": "spring-boot-starter",
-                    "version": "4.0.2",
-                    "artifacts": [
-                        {
-                            "name": "spring-boot-starter",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/4.0.2/d31987d4c1f6af48db2a53605829780365354e85/spring-boot-starter-4.0.2-sources.jar"
-                        },
-                        {
-                            "name": "spring-boot-starter",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/4.0.2/d31987d4c1f6af48db2a53605829780365354e85/spring-boot-starter-4.0.2.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "jakarta.xml.bind",
-                    "name": "jakarta.xml.bind-api",
-                    "version": "4.0.4",
-                    "artifacts": [
-                        {
-                            "name": "jakarta.xml.bind-api",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/4.0.4/3e42a6a67668446432c858ca8b88431db158fb8b/jakarta.xml.bind-api-4.0.4-sources.jar"
-                        },
-                        {
-                            "name": "jakarta.xml.bind-api",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/4.0.4/d6d2327f3817d9a33a3b6b8f2e15a96bc2e7afdc/jakarta.xml.bind-api-4.0.4.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.springframework.boot",
                     "name": "spring-boot-web-server",
                     "version": "4.0.2",
                     "artifacts": [
@@ -360,50 +372,34 @@
                     ]
                 },
                 {
+                    "organization": "io.netty",
+                    "name": "netty-transport-native-unix-common",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-transport-native-unix-common",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.2.9.Final/ff416b5aaac1fbfe625ee92deb08664e938aa00/netty-transport-native-unix-common-4.2.9.Final.jar"
+                        },
+                        {
+                            "name": "netty-transport-native-unix-common",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.2.9.Final/74fc25d974dead86797f84afd9686fccbc52bd5d/netty-transport-native-unix-common-4.2.9.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
                     "organization": "org.springframework.boot",
-                    "name": "spring-boot-http-converter",
+                    "name": "spring-boot-reactor-netty",
                     "version": "4.0.2",
                     "artifacts": [
                         {
-                            "name": "spring-boot-http-converter",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-http-converter/4.0.2/40636b33c16ced5d4bbd4175e5a091d30937901e/spring-boot-http-converter-4.0.2-sources.jar"
+                            "name": "spring-boot-reactor-netty",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-reactor-netty/4.0.2/b84a2e225c816fb002b17647a9fb52365bee1e64/spring-boot-reactor-netty-4.0.2.jar"
                         },
                         {
-                            "name": "spring-boot-http-converter",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-http-converter/4.0.2/672071db26ae74b433505a3d52e45cf6effcff70/spring-boot-http-converter-4.0.2.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "net.minidev",
-                    "name": "json-smart",
-                    "version": "2.6.0",
-                    "artifacts": [
-                        {
-                            "name": "json-smart",
+                            "name": "spring-boot-reactor-netty",
                             "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.6.0/75b3757e82a64681edcbd3a252da318d68831b0e/json-smart-2.6.0-sources.jar"
-                        },
-                        {
-                            "name": "json-smart",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.6.0/5f858a43a325a8673da6869ab2bc787a1bcb2244/json-smart-2.6.0.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.osgi",
-                    "name": "org.osgi.resource",
-                    "version": "1.0.0",
-                    "artifacts": [
-                        {
-                            "name": "org.osgi.resource",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.resource/1.0.0/506ee97481879484d9b76b4169d627396172cc37/org.osgi.resource-1.0.0-sources.jar"
-                        },
-                        {
-                            "name": "org.osgi.resource",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.resource/1.0.0/343c88949132984b3f2d4175a72c40b77dc65619/org.osgi.resource-1.0.0.jar"
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-reactor-netty/4.0.2/29ec7f496b103c86dd1b88a9457c0f487a6d9b72/spring-boot-reactor-netty-4.0.2-sources.jar"
                         }
                     ]
                 },
@@ -456,6 +452,54 @@
                     ]
                 },
                 {
+                    "organization": "io.netty",
+                    "name": "netty-codec-http2",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-codec-http2",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http2/4.2.9.Final/d82683120b05d1c9c56a88e1daff07e4c0420537/netty-codec-http2-4.2.9.Final.jar"
+                        },
+                        {
+                            "name": "netty-codec-http2",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http2/4.2.9.Final/83ff8e597b319d4eed9d2c957f29510bbd3c11a2/netty-codec-http2-4.2.9.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-codec-native-quic",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-codec-native-quic",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-native-quic/4.2.9.Final/87ce82aa487b3701a83312b748d2d311b58bbe68/netty-codec-native-quic-4.2.9.Final-linux-aarch_64.jar"
+                        },
+                        {
+                            "name": "netty-codec-native-quic",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-native-quic/4.2.9.Final/bfeada59431a1014807c93ed8114794263193298/netty-codec-native-quic-4.2.9.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-resolver-dns",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-resolver-dns",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns/4.2.9.Final/565e7ff1266db445b6b1621b2f68015bf20b5406/netty-resolver-dns-4.2.9.Final.jar"
+                        },
+                        {
+                            "name": "netty-resolver-dns",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns/4.2.9.Final/8e89bd62160bf3975ff405781f7d4b7536c0bc35/netty-resolver-dns-4.2.9.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
                     "organization": "org.springframework",
                     "name": "spring-expression",
                     "version": "7.0.3",
@@ -468,22 +512,6 @@
                             "name": "spring-expression",
                             "classifier": "sources",
                             "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/7.0.3/5053e6807f2279b9af1b7427d884b075481f8cca/spring-expression-7.0.3-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "net.bytebuddy",
-                    "name": "byte-buddy-agent",
-                    "version": "1.17.8",
-                    "artifacts": [
-                        {
-                            "name": "byte-buddy-agent",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.17.8/ad713f9f25bfd02e938d318744b91e66326348be/byte-buddy-agent-1.17.8-sources.jar"
-                        },
-                        {
-                            "name": "byte-buddy-agent",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.17.8/f09415827a71be7ed621c7bd02550678f28bc81c/byte-buddy-agent-1.17.8.jar"
                         }
                     ]
                 },
@@ -504,18 +532,18 @@
                     ]
                 },
                 {
-                    "organization": "jakarta.annotation",
-                    "name": "jakarta.annotation-api",
-                    "version": "3.0.0",
+                    "organization": "io.netty",
+                    "name": "netty-codec-classes-quic",
+                    "version": "4.2.9.Final",
                     "artifacts": [
                         {
-                            "name": "jakarta.annotation-api",
+                            "name": "netty-codec-classes-quic",
                             "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.annotation/jakarta.annotation-api/3.0.0/ef0c4c613c56afb214f2e810a3a5ef0dc4a1c8f/jakarta.annotation-api-3.0.0-sources.jar"
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-classes-quic/4.2.9.Final/a74b0a826adf6783be1e0e3bd25af84b8f13fc51/netty-codec-classes-quic-4.2.9.Final-sources.jar"
                         },
                         {
-                            "name": "jakarta.annotation-api",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.annotation/jakarta.annotation-api/3.0.0/54f928fadec906a99d558536756d171917b9d936/jakarta.annotation-api-3.0.0.jar"
+                            "name": "netty-codec-classes-quic",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-classes-quic/4.2.9.Final/8b441d8465077c1ac1ed57bad3f087bc2a84e994/netty-codec-classes-quic-4.2.9.Final.jar"
                         }
                     ]
                 },
@@ -568,6 +596,22 @@
                     ]
                 },
                 {
+                    "organization": "io.netty",
+                    "name": "netty-transport",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-transport",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.2.9.Final/b864fc8ec3d72b6e22af88f5408b6ad7e41980ec/netty-transport-4.2.9.Final.jar"
+                        },
+                        {
+                            "name": "netty-transport",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.2.9.Final/b0ec04ce9a2ba4d69670720e9fa7cdaeb05bfc2a/netty-transport-4.2.9.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
                     "organization": "biz.aQute.bnd",
                     "name": "biz.aQute.bnd.annotation",
                     "version": "7.1.0",
@@ -580,6 +624,22 @@
                         {
                             "name": "biz.aQute.bnd.annotation",
                             "path": "/home/karim/.gradle/caches/modules-2/files-2.1/biz.aQute.bnd/biz.aQute.bnd.annotation/7.1.0/2f2be18c936d08cf46ea6cfa0043f34afdf38705/biz.aQute.bnd.annotation-7.1.0.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-resolver-dns-classes-macos",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-resolver-dns-classes-macos",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns-classes-macos/4.2.9.Final/7c6711f240e3a592288a3640cf2146eb8155a81c/netty-resolver-dns-classes-macos-4.2.9.Final.jar"
+                        },
+                        {
+                            "name": "netty-resolver-dns-classes-macos",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns-classes-macos/4.2.9.Final/a21e2170f096cf798645c8f63e9430fc0bbbed72/netty-resolver-dns-classes-macos-4.2.9.Final-sources.jar"
                         }
                     ]
                 },
@@ -600,34 +660,18 @@
                     ]
                 },
                 {
-                    "organization": "org.springframework.boot",
-                    "name": "spring-boot-starter-tomcat",
-                    "version": "4.0.2",
+                    "organization": "org.springframework",
+                    "name": "spring-webflux",
+                    "version": "7.0.3",
                     "artifacts": [
                         {
-                            "name": "spring-boot-starter-tomcat",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/4.0.2/fbe3d2c53b91570c1570e3a6150df6373aa2aa93/spring-boot-starter-tomcat-4.0.2.jar"
+                            "name": "spring-webflux",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webflux/7.0.3/39087f6deecf78f3c73e716098f22b1099d17bd8/spring-webflux-7.0.3-sources.jar"
                         },
                         {
-                            "name": "spring-boot-starter-tomcat",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/4.0.2/fbe3d2c53b91570c1570e3a6150df6373aa2aa93/spring-boot-starter-tomcat-4.0.2-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.springframework.boot",
-                    "name": "spring-boot-starter-jackson-test",
-                    "version": "4.0.2",
-                    "artifacts": [
-                        {
-                            "name": "spring-boot-starter-jackson-test",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jackson-test/4.0.2/5e0c3509e92f7fb33b0cffe40e2cae7971ccb31d/spring-boot-starter-jackson-test-4.0.2-sources.jar"
-                        },
-                        {
-                            "name": "spring-boot-starter-jackson-test",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jackson-test/4.0.2/5e0c3509e92f7fb33b0cffe40e2cae7971ccb31d/spring-boot-starter-jackson-test-4.0.2.jar"
+                            "name": "spring-webflux",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webflux/7.0.3/2f6481cb2d1965da451eb4847ec4fe52865417d3/spring-webflux-7.0.3.jar"
                         }
                     ]
                 },
@@ -648,18 +692,18 @@
                     ]
                 },
                 {
-                    "organization": "org.osgi",
-                    "name": "org.osgi.service.serviceloader",
-                    "version": "1.0.0",
+                    "organization": "io.netty",
+                    "name": "netty-codec-base",
+                    "version": "4.2.9.Final",
                     "artifacts": [
                         {
-                            "name": "org.osgi.service.serviceloader",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.service.serviceloader/1.0.0/3728ff37909c6a3c1870b3e851342d9f2bd3cc63/org.osgi.service.serviceloader-1.0.0.jar"
+                            "name": "netty-codec-base",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-base/4.2.9.Final/1ecb17e188008c62aef9d03491f2fde6b06414bb/netty-codec-base-4.2.9.Final.jar"
                         },
                         {
-                            "name": "org.osgi.service.serviceloader",
+                            "name": "netty-codec-base",
                             "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.service.serviceloader/1.0.0/e5f6e4bb20e1bdced26b2ba0ea55db2d027e330f/org.osgi.service.serviceloader-1.0.0-sources.jar"
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-base/4.2.9.Final/1ab6b3ec83c82c4b9796ace457b1b9162a06968c/netty-codec-base-4.2.9.Final-sources.jar"
                         }
                     ]
                 },
@@ -696,50 +740,18 @@
                     ]
                 },
                 {
-                    "organization": "org.jspecify",
-                    "name": "jspecify",
-                    "version": "1.0.0",
+                    "organization": "io.netty",
+                    "name": "netty-buffer",
+                    "version": "4.2.9.Final",
                     "artifacts": [
                         {
-                            "name": "jspecify",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/f1a67bbcf2f9f282baf3821046563983f16ca9b2/jspecify-1.0.0-sources.jar"
+                            "name": "netty-buffer",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.2.9.Final/d419abb1b035e1ab4dae22766c3ebf37343cc82b/netty-buffer-4.2.9.Final.jar"
                         },
                         {
-                            "name": "jspecify",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/7425a601c1c7ec76645a78d22b8c6a627edee507/jspecify-1.0.0.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.apache.tomcat.embed",
-                    "name": "tomcat-embed-websocket",
-                    "version": "11.0.15",
-                    "artifacts": [
-                        {
-                            "name": "tomcat-embed-websocket",
+                            "name": "netty-buffer",
                             "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/11.0.15/1e217049d87d4710b911450c974d9761f1ffb29f/tomcat-embed-websocket-11.0.15-sources.jar"
-                        },
-                        {
-                            "name": "tomcat-embed-websocket",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/11.0.15/4c0eced7d97fe8404c722d5ff02757a05a6d5033/tomcat-embed-websocket-11.0.15.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.slf4j",
-                    "name": "slf4j-api",
-                    "version": "2.0.17",
-                    "artifacts": [
-                        {
-                            "name": "slf4j-api",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.17/d7da5e7fecb3544b1e32f86dc0ef5d5ecf9f381b/slf4j-api-2.0.17-sources.jar"
-                        },
-                        {
-                            "name": "slf4j-api",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.17/d9e58ac9c7779ba3bf8142aff6c830617a7fe60f/slf4j-api-2.0.17.jar"
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.2.9.Final/14904d6ac186c2023beb3ede135d71d8f30263e3/netty-buffer-4.2.9.Final-sources.jar"
                         }
                     ]
                 },
@@ -792,34 +804,34 @@
                     ]
                 },
                 {
-                    "organization": "org.skyscreamer",
-                    "name": "jsonassert",
-                    "version": "1.5.3",
+                    "organization": "io.projectreactor.netty",
+                    "name": "reactor-netty-core",
+                    "version": "1.3.2",
                     "artifacts": [
                         {
-                            "name": "jsonassert",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.skyscreamer/jsonassert/1.5.3/aaa43e0823d2a0e106e8754d6a9c4ab24e05e9bc/jsonassert-1.5.3.jar"
+                            "name": "reactor-netty-core",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.projectreactor.netty/reactor-netty-core/1.3.2/78152a90647f1fb9cf044354bc38beb5a22ca70b/reactor-netty-core-1.3.2.jar"
                         },
                         {
-                            "name": "jsonassert",
+                            "name": "reactor-netty-core",
                             "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.skyscreamer/jsonassert/1.5.3/a0820ac5c558fe0032d3d400792b184bf960a328/jsonassert-1.5.3-sources.jar"
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.projectreactor.netty/reactor-netty-core/1.3.2/fc64116ff57bebae5f523e04d641912b1a7eabb/reactor-netty-core-1.3.2-sources.jar"
                         }
                     ]
                 },
                 {
-                    "organization": "org.springframework.boot",
-                    "name": "spring-boot-starter-webmvc",
-                    "version": "4.0.2",
+                    "organization": "io.netty",
+                    "name": "netty-codec-http",
+                    "version": "4.2.9.Final",
                     "artifacts": [
                         {
-                            "name": "spring-boot-starter-webmvc",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-webmvc/4.0.2/90563663cdd252544fd7a8139d1c853740d8e61c/spring-boot-starter-webmvc-4.0.2.jar"
+                            "name": "netty-codec-http",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.2.9.Final/20077d54b08a1cf7d764b169946373dff2e9f9be/netty-codec-http-4.2.9.Final.jar"
                         },
                         {
-                            "name": "spring-boot-starter-webmvc",
+                            "name": "netty-codec-http",
                             "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-webmvc/4.0.2/90563663cdd252544fd7a8139d1c853740d8e61c/spring-boot-starter-webmvc-4.0.2-sources.jar"
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.2.9.Final/4a47579095cd0e69c051e572dda30b7984a15a42/netty-codec-http-4.2.9.Final-sources.jar"
                         }
                     ]
                 },
@@ -840,54 +852,6 @@
                     ]
                 },
                 {
-                    "organization": "ch.qos.logback",
-                    "name": "logback-classic",
-                    "version": "1.5.25",
-                    "artifacts": [
-                        {
-                            "name": "logback-classic",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.5.25/a32d7c26febccdb3fd020899bd7775dfca8fa88f/logback-classic-1.5.25-sources.jar"
-                        },
-                        {
-                            "name": "logback-classic",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.5.25/20c4bbe98fb58f50ee1ca6befd7e7731f13a19d3/logback-classic-1.5.25.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.junit.platform",
-                    "name": "junit-platform-engine",
-                    "version": "6.0.2",
-                    "artifacts": [
-                        {
-                            "name": "junit-platform-engine",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/6.0.2/23b7128fe496c50f577244d0d849761957845891/junit-platform-engine-6.0.2-sources.jar"
-                        },
-                        {
-                            "name": "junit-platform-engine",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/6.0.2/d652eea045999c54c5edc4fbf04e4612f9bf1421/junit-platform-engine-6.0.2.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "io.micrometer",
-                    "name": "micrometer-observation",
-                    "version": "1.16.2",
-                    "artifacts": [
-                        {
-                            "name": "micrometer-observation",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-observation/1.16.2/3b18970743a8e024e948936cabe552f081cb7715/micrometer-observation-1.16.2-sources.jar"
-                        },
-                        {
-                            "name": "micrometer-observation",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-observation/1.16.2/c076389e612fe3702628527c21a13743acafddfc/micrometer-observation-1.16.2.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "org.springframework.boot",
                     "name": "spring-boot-test",
                     "version": "4.0.2",
@@ -900,6 +864,22 @@
                         {
                             "name": "spring-boot-test",
                             "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/4.0.2/bd0fea465cd9763ab0dc78cd622a581e1e24c038/spring-boot-test-4.0.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-resolver",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-resolver",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.2.9.Final/7a5cc1a9effde7502be504a5e775a4d0b5ed78fc/netty-resolver-4.2.9.Final-sources.jar"
+                        },
+                        {
+                            "name": "netty-resolver",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.2.9.Final/faccff808e9166f1d689e054059b172cffc738ab/netty-resolver-4.2.9.Final.jar"
                         }
                     ]
                 },
@@ -920,34 +900,18 @@
                     ]
                 },
                 {
-                    "organization": "com.fasterxml.jackson.core",
-                    "name": "jackson-annotations",
-                    "version": "2.20",
+                    "organization": "io.netty",
+                    "name": "netty-transport-native-epoll",
+                    "version": "4.2.9.Final",
                     "artifacts": [
                         {
-                            "name": "jackson-annotations",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.20/6a5e7291ea3f2b590a7ce400adb7b3aea4d7e12c/jackson-annotations-2.20.jar"
+                            "name": "netty-transport-native-epoll",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.2.9.Final/345e9bc0118e2d0bb498d0fa10947a3295d30496/netty-transport-native-epoll-4.2.9.Final-linux-x86_64.jar"
                         },
                         {
-                            "name": "jackson-annotations",
+                            "name": "netty-transport-native-epoll",
                             "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.20/34b29ba2056358f422b0eb890611dbf15876986e/jackson-annotations-2.20-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "com.jayway.jsonpath",
-                    "name": "json-path",
-                    "version": "2.10.0",
-                    "artifacts": [
-                        {
-                            "name": "json-path",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.10.0/70ce116c8083ef34509fc71ec221d18fd49fa6b2/json-path-2.10.0-sources.jar"
-                        },
-                        {
-                            "name": "json-path",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.10.0/e1a0b2e6db75401181c9c1c64c6d155ca5c6d608/json-path-2.10.0.jar"
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.2.9.Final/bf22bb69189bd61e44014b2b371a83960cb3acbc/netty-transport-native-epoll-4.2.9.Final-sources.jar"
                         }
                     ]
                 },
@@ -968,38 +932,6 @@
                     ]
                 },
                 {
-                    "organization": "org.springframework.boot",
-                    "name": "spring-boot-tomcat",
-                    "version": "4.0.2",
-                    "artifacts": [
-                        {
-                            "name": "spring-boot-tomcat",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-tomcat/4.0.2/15ea6c32100eb37af80084372c67feba419bf55c/spring-boot-tomcat-4.0.2-sources.jar"
-                        },
-                        {
-                            "name": "spring-boot-tomcat",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-tomcat/4.0.2/11d5828b1a9efb6e256f145b1107cc46b64d41a/spring-boot-tomcat-4.0.2.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.junit.platform",
-                    "name": "junit-platform-launcher",
-                    "version": "6.0.2",
-                    "artifacts": [
-                        {
-                            "name": "junit-platform-launcher",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/6.0.2/5e3a4f00d15162299a901bb3b1c1c328d580f046/junit-platform-launcher-6.0.2.jar"
-                        },
-                        {
-                            "name": "junit-platform-launcher",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/6.0.2/1fe45dac052ad1139918482204196a29e13b212d/junit-platform-launcher-6.0.2-sources.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "org.apache.logging.log4j",
                     "name": "log4j-api",
                     "version": "2.25.3",
@@ -1012,6 +944,22 @@
                             "name": "log4j-api",
                             "classifier": "sources",
                             "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.25.3/e8f8a0a1b5313698977be07ac89b8084cb2648f/log4j-api-2.25.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.hibernate.validator",
+                    "name": "hibernate-validator",
+                    "version": "9.0.1.Final",
+                    "artifacts": [
+                        {
+                            "name": "hibernate-validator",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.hibernate.validator/hibernate-validator/9.0.1.Final/28c0e41ecc84d1f0b8b6d81d16e0784e63364e68/hibernate-validator-9.0.1.Final.jar"
+                        },
+                        {
+                            "name": "hibernate-validator",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.hibernate.validator/hibernate-validator/9.0.1.Final/ccf68127a1e0ed6407da28bc4a86288ce266cd9e/hibernate-validator-9.0.1.Final-sources.jar"
                         }
                     ]
                 },
@@ -1080,6 +1028,22 @@
                     ]
                 },
                 {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-starter-tomcat-runtime",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-starter-tomcat-runtime",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat-runtime/4.0.2/1721a88cfff65f7589b8078fa83722da787112a0/spring-boot-starter-tomcat-runtime-4.0.2.jar"
+                        },
+                        {
+                            "name": "spring-boot-starter-tomcat-runtime",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat-runtime/4.0.2/1721a88cfff65f7589b8078fa83722da787112a0/spring-boot-starter-tomcat-runtime-4.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
                     "organization": "org.objenesis",
                     "name": "objenesis",
                     "version": "3.3",
@@ -1112,22 +1076,6 @@
                     ]
                 },
                 {
-                    "organization": "org.springframework.boot",
-                    "name": "spring-boot-starter-tomcat-runtime",
-                    "version": "4.0.2",
-                    "artifacts": [
-                        {
-                            "name": "spring-boot-starter-tomcat-runtime",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat-runtime/4.0.2/1721a88cfff65f7589b8078fa83722da787112a0/spring-boot-starter-tomcat-runtime-4.0.2.jar"
-                        },
-                        {
-                            "name": "spring-boot-starter-tomcat-runtime",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat-runtime/4.0.2/1721a88cfff65f7589b8078fa83722da787112a0/spring-boot-starter-tomcat-runtime-4.0.2-sources.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "org.apache.logging.log4j",
                     "name": "log4j-to-slf4j",
                     "version": "2.25.3",
@@ -1144,82 +1092,18 @@
                     ]
                 },
                 {
-                    "organization": "org.springframework.boot",
-                    "name": "spring-boot",
-                    "version": "4.0.2",
+                    "organization": "io.netty",
+                    "name": "netty-codec-socks",
+                    "version": "4.2.9.Final",
                     "artifacts": [
                         {
-                            "name": "spring-boot",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/4.0.2/34be59ce667b78acddc3d4aab66c99ced4a56fbd/spring-boot-4.0.2-sources.jar"
+                            "name": "netty-codec-socks",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.2.9.Final/95aeac38838c04094f30de6cc973c76c3270cfd3/netty-codec-socks-4.2.9.Final.jar"
                         },
                         {
-                            "name": "spring-boot",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/4.0.2/577e8d07510cf827be02b0dcd080356978b11616/spring-boot-4.0.2.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.springframework.boot",
-                    "name": "spring-boot-webmvc",
-                    "version": "4.0.2",
-                    "artifacts": [
-                        {
-                            "name": "spring-boot-webmvc",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webmvc/4.0.2/38e00eed171a003cd00ca1f55a453e0cc8c5529e/spring-boot-webmvc-4.0.2.jar"
-                        },
-                        {
-                            "name": "spring-boot-webmvc",
+                            "name": "netty-codec-socks",
                             "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webmvc/4.0.2/d1ceb616831f6c8d86b6b7b9bd7b44ee9ed574c7/spring-boot-webmvc-4.0.2-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.springframework.boot",
-                    "name": "spring-boot-resttestclient",
-                    "version": "4.0.2",
-                    "artifacts": [
-                        {
-                            "name": "spring-boot-resttestclient",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-resttestclient/4.0.2/5abcaf0f3dcc21e21bfbca9444170af086414eed/spring-boot-resttestclient-4.0.2.jar"
-                        },
-                        {
-                            "name": "spring-boot-resttestclient",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-resttestclient/4.0.2/24ce6cc47bd83e37085450cf498a89e460008f9d/spring-boot-resttestclient-4.0.2-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.slf4j",
-                    "name": "jul-to-slf4j",
-                    "version": "2.0.17",
-                    "artifacts": [
-                        {
-                            "name": "jul-to-slf4j",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/2.0.17/524cb6ccc2b68a57604750e1ab8b13b5a786a6aa/jul-to-slf4j-2.0.17.jar"
-                        },
-                        {
-                            "name": "jul-to-slf4j",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/2.0.17/ddf86d49b5af339fd69a97d72e8ecf73a7953f6b/jul-to-slf4j-2.0.17-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.springframework",
-                    "name": "spring-core",
-                    "version": "7.0.3",
-                    "artifacts": [
-                        {
-                            "name": "spring-core",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/7.0.3/292f126c16f61df4c71efc21d3ba5d140b84da2b/spring-core-7.0.3-sources.jar"
-                        },
-                        {
-                            "name": "spring-core",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/7.0.3/2072a89e347c63567a83349eb5908131ce6ea601/spring-core-7.0.3.jar"
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.2.9.Final/c0c31674df3cdb9b813e60711d91529fe3ef2230/netty-codec-socks-4.2.9.Final-sources.jar"
                         }
                     ]
                 },
@@ -1256,18 +1140,18 @@
                     ]
                 },
                 {
-                    "organization": "org.springframework.boot",
-                    "name": "spring-boot-starter-logging",
-                    "version": "4.0.2",
+                    "organization": "org.jboss.logging",
+                    "name": "jboss-logging",
+                    "version": "3.6.1.Final",
                     "artifacts": [
                         {
-                            "name": "spring-boot-starter-logging",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/4.0.2/96f2e505eb788327b3b170bf965427eecb0717f/spring-boot-starter-logging-4.0.2-sources.jar"
+                            "name": "jboss-logging",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.6.1.Final/886afbb445b4016a37c8960a7aef6ebd769ce7e5/jboss-logging-3.6.1.Final.jar"
                         },
                         {
-                            "name": "spring-boot-starter-logging",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/4.0.2/96f2e505eb788327b3b170bf965427eecb0717f/spring-boot-starter-logging-4.0.2.jar"
+                            "name": "jboss-logging",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.6.1.Final/47222642c3ede6f40f3e27594fe6a9bf180b6938/jboss-logging-3.6.1.Final-sources.jar"
                         }
                     ]
                 },
@@ -1284,22 +1168,6 @@
                         {
                             "name": "apiguardian-api",
                             "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/a231e0d844d2721b0fa1b238006d15c6ded6842a/apiguardian-api-1.1.2.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "jakarta.activation",
-                    "name": "jakarta.activation-api",
-                    "version": "2.1.4",
-                    "artifacts": [
-                        {
-                            "name": "jakarta.activation-api",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/2.1.4/9e5c2a0d75dde71a0bedc4dbdbe47b78a5dc50f8/jakarta.activation-api-2.1.4.jar"
-                        },
-                        {
-                            "name": "jakarta.activation-api",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/2.1.4/a37bf73633c6a43e25953074ac6a28a67f0d9305/jakarta.activation-api-2.1.4-sources.jar"
                         }
                     ]
                 },
@@ -1352,22 +1220,6 @@
                     ]
                 },
                 {
-                    "organization": "org.springframework.boot",
-                    "name": "spring-boot-webmvc-test",
-                    "version": "4.0.2",
-                    "artifacts": [
-                        {
-                            "name": "spring-boot-webmvc-test",
-                            "classifier": "sources",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webmvc-test/4.0.2/2ed456e52c0c953b518d42fab91696472b2f7fe/spring-boot-webmvc-test-4.0.2-sources.jar"
-                        },
-                        {
-                            "name": "spring-boot-webmvc-test",
-                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webmvc-test/4.0.2/cbcca1ab32c9ab6179e517d64be5212024a3ab70/spring-boot-webmvc-test-4.0.2.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "org.junit.jupiter",
                     "name": "junit-jupiter-engine",
                     "version": "6.0.2",
@@ -1384,6 +1236,22 @@
                     ]
                 },
                 {
+                    "organization": "io.netty",
+                    "name": "netty-codec-native-quic",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-codec-native-quic",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-native-quic/4.2.9.Final/7725db063980a53420afbced5fb39dbd0eebbd8a/netty-codec-native-quic-4.2.9.Final-osx-aarch_64.jar"
+                        },
+                        {
+                            "name": "netty-codec-native-quic",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-native-quic/4.2.9.Final/bfeada59431a1014807c93ed8114794263193298/netty-codec-native-quic-4.2.9.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
                     "organization": "org.assertj",
                     "name": "assertj-core",
                     "version": "3.27.6",
@@ -1396,6 +1264,838 @@
                             "name": "assertj-core",
                             "classifier": "sources",
                             "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.27.6/b802cb15ba0ef2fd5bb3746a2833d02dde3f5e26/assertj-core-3.27.6-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-handler-proxy",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-handler-proxy",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.2.9.Final/3be91239e18159d66b647c8025629e13986236e4/netty-handler-proxy-4.2.9.Final.jar"
+                        },
+                        {
+                            "name": "netty-handler-proxy",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.2.9.Final/6e79e27f2d16ef3ab0e14671874ea1bfdd1acbb/netty-handler-proxy-4.2.9.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.opentest4j",
+                    "name": "opentest4j",
+                    "version": "1.3.0",
+                    "artifacts": [
+                        {
+                            "name": "opentest4j",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.3.0/152ea56b3a72f655d4fd677fc0ef2596c3dd5e6e/opentest4j-1.3.0.jar"
+                        },
+                        {
+                            "name": "opentest4j",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.3.0/afb8ff23cffb021c56f333953aebfe6e8818568e/opentest4j-1.3.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-reactor",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-reactor",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-reactor/4.0.2/8ef5287848fb432d2e7da9f64707a937ad8de774/spring-boot-reactor-4.0.2-sources.jar"
+                        },
+                        {
+                            "name": "spring-boot-reactor",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-reactor/4.0.2/d9cd37e7526aad18458317928fba2556f306ccf9/spring-boot-reactor-4.0.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "jakarta.validation",
+                    "name": "jakarta.validation-api",
+                    "version": "3.1.1",
+                    "artifacts": [
+                        {
+                            "name": "jakarta.validation-api",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.validation/jakarta.validation-api/3.1.1/ec8622148afc5564235d17af80ea80288d0e7f92/jakarta.validation-api-3.1.1.jar"
+                        },
+                        {
+                            "name": "jakarta.validation-api",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.validation/jakarta.validation-api/3.1.1/4fdbc03b207ed00847ebffd7ee599aee7ace6eff/jakarta.validation-api-3.1.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-test-autoconfigure",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-test-autoconfigure",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test-autoconfigure/4.0.2/5d54635e17fe634f17684bec118a9d22325e6111/spring-boot-test-autoconfigure-4.0.2.jar"
+                        },
+                        {
+                            "name": "spring-boot-test-autoconfigure",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test-autoconfigure/4.0.2/198c7aae427b9ac0d32b2ab4a2e37017f5cbe879/spring-boot-test-autoconfigure-4.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-starter",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-starter",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/4.0.2/d31987d4c1f6af48db2a53605829780365354e85/spring-boot-starter-4.0.2-sources.jar"
+                        },
+                        {
+                            "name": "spring-boot-starter",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/4.0.2/d31987d4c1f6af48db2a53605829780365354e85/spring-boot-starter-4.0.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-starter-reactor-netty",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-starter-reactor-netty",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-reactor-netty/4.0.2/dea93545894d4dacb62ecc9a65026b0db6051b9c/spring-boot-starter-reactor-netty-4.0.2-sources.jar"
+                        },
+                        {
+                            "name": "spring-boot-starter-reactor-netty",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-reactor-netty/4.0.2/dea93545894d4dacb62ecc9a65026b0db6051b9c/spring-boot-starter-reactor-netty-4.0.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "jakarta.xml.bind",
+                    "name": "jakarta.xml.bind-api",
+                    "version": "4.0.4",
+                    "artifacts": [
+                        {
+                            "name": "jakarta.xml.bind-api",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/4.0.4/3e42a6a67668446432c858ca8b88431db158fb8b/jakarta.xml.bind-api-4.0.4-sources.jar"
+                        },
+                        {
+                            "name": "jakarta.xml.bind-api",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/4.0.4/d6d2327f3817d9a33a3b6b8f2e15a96bc2e7afdc/jakarta.xml.bind-api-4.0.4.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-http-converter",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-http-converter",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-http-converter/4.0.2/40636b33c16ced5d4bbd4175e5a091d30937901e/spring-boot-http-converter-4.0.2-sources.jar"
+                        },
+                        {
+                            "name": "spring-boot-http-converter",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-http-converter/4.0.2/672071db26ae74b433505a3d52e45cf6effcff70/spring-boot-http-converter-4.0.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "net.minidev",
+                    "name": "json-smart",
+                    "version": "2.6.0",
+                    "artifacts": [
+                        {
+                            "name": "json-smart",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.6.0/75b3757e82a64681edcbd3a252da318d68831b0e/json-smart-2.6.0-sources.jar"
+                        },
+                        {
+                            "name": "json-smart",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.6.0/5f858a43a325a8673da6869ab2bc787a1bcb2244/json-smart-2.6.0.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.osgi",
+                    "name": "org.osgi.resource",
+                    "version": "1.0.0",
+                    "artifacts": [
+                        {
+                            "name": "org.osgi.resource",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.resource/1.0.0/506ee97481879484d9b76b4169d627396172cc37/org.osgi.resource-1.0.0-sources.jar"
+                        },
+                        {
+                            "name": "org.osgi.resource",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.resource/1.0.0/343c88949132984b3f2d4175a72c40b77dc65619/org.osgi.resource-1.0.0.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.fasterxml",
+                    "name": "classmate",
+                    "version": "1.7.3",
+                    "artifacts": [
+                        {
+                            "name": "classmate",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.7.3/f61c7e7b81e9249b0f6a05914eff9d54fb09f4a0/classmate-1.7.3.jar"
+                        },
+                        {
+                            "name": "classmate",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.7.3/51e15ea3494c9f095b984e19520124a0ab2d67dd/classmate-1.7.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-codec-native-quic",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-codec-native-quic",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-native-quic/4.2.9.Final/bfeada59431a1014807c93ed8114794263193298/netty-codec-native-quic-4.2.9.Final-sources.jar"
+                        },
+                        {
+                            "name": "netty-codec-native-quic",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-native-quic/4.2.9.Final/6873dd577760b80b345fa5ab7dfe589ed9c1bbc3/netty-codec-native-quic-4.2.9.Final-windows-x86_64.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-starter-validation",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-starter-validation",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-validation/4.0.2/f4f23a7ac8485d50ef613a2b06812fd0f43ee083/spring-boot-starter-validation-4.0.2-sources.jar"
+                        },
+                        {
+                            "name": "spring-boot-starter-validation",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-validation/4.0.2/f4f23a7ac8485d50ef613a2b06812fd0f43ee083/spring-boot-starter-validation-4.0.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-http-codec",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-http-codec",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-http-codec/4.0.2/25162d6078b3808ba75638fb0a962a7da3a1fa01/spring-boot-http-codec-4.0.2-sources.jar"
+                        },
+                        {
+                            "name": "spring-boot-http-codec",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-http-codec/4.0.2/643ed4ef46286ccc8708aac6b99465422e5a2cb/spring-boot-http-codec-4.0.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "net.bytebuddy",
+                    "name": "byte-buddy-agent",
+                    "version": "1.17.8",
+                    "artifacts": [
+                        {
+                            "name": "byte-buddy-agent",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.17.8/ad713f9f25bfd02e938d318744b91e66326348be/byte-buddy-agent-1.17.8-sources.jar"
+                        },
+                        {
+                            "name": "byte-buddy-agent",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.17.8/f09415827a71be7ed621c7bd02550678f28bc81c/byte-buddy-agent-1.17.8.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "jakarta.annotation",
+                    "name": "jakarta.annotation-api",
+                    "version": "3.0.0",
+                    "artifacts": [
+                        {
+                            "name": "jakarta.annotation-api",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.annotation/jakarta.annotation-api/3.0.0/ef0c4c613c56afb214f2e810a3a5ef0dc4a1c8f/jakarta.annotation-api-3.0.0-sources.jar"
+                        },
+                        {
+                            "name": "jakarta.annotation-api",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.annotation/jakarta.annotation-api/3.0.0/54f928fadec906a99d558536756d171917b9d936/jakarta.annotation-api-3.0.0.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-resolver-dns-native-macos",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-resolver-dns-native-macos",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns-native-macos/4.2.9.Final/f79826d359b49e9648017e62855d56b429a32020/netty-resolver-dns-native-macos-4.2.9.Final-sources.jar"
+                        },
+                        {
+                            "name": "netty-resolver-dns-native-macos",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns-native-macos/4.2.9.Final/e7c4589f704673269991f70e91935dce0c3e14e4/netty-resolver-dns-native-macos-4.2.9.Final-osx-x86_64.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-codec-http3",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-codec-http3",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http3/4.2.9.Final/ec56136b660564ef5a6cf778076a4c6631aabaee/netty-codec-http3-4.2.9.Final-sources.jar"
+                        },
+                        {
+                            "name": "netty-codec-http3",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http3/4.2.9.Final/e8a593762196738c0265259e5728a275e2d8f1ea/netty-codec-http3-4.2.9.Final.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-codec-compression",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-codec-compression",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-compression/4.2.9.Final/d3d3c3c16110278d1dbf8a423e20a839523724cd/netty-codec-compression-4.2.9.Final.jar"
+                        },
+                        {
+                            "name": "netty-codec-compression",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-compression/4.2.9.Final/7dfa607fc6c03aea1d7006764e1f3e3e5550503b/netty-codec-compression-4.2.9.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-handler",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-handler",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.2.9.Final/bea7c2fbd44ab4a4076803e221cc659bf49f436d/netty-handler-4.2.9.Final-sources.jar"
+                        },
+                        {
+                            "name": "netty-handler",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.2.9.Final/f79da6a81f4390ed067301235e29705a7f774c5b/netty-handler-4.2.9.Final.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-starter-tomcat",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-starter-tomcat",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/4.0.2/fbe3d2c53b91570c1570e3a6150df6373aa2aa93/spring-boot-starter-tomcat-4.0.2.jar"
+                        },
+                        {
+                            "name": "spring-boot-starter-tomcat",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/4.0.2/fbe3d2c53b91570c1570e3a6150df6373aa2aa93/spring-boot-starter-tomcat-4.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-common",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-common",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.2.9.Final/28133d0068271ca8e9af70c34c8962bb1e9e406d/netty-common-4.2.9.Final-sources.jar"
+                        },
+                        {
+                            "name": "netty-common",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.2.9.Final/4429addd1a59cb52dde76102f61b3f696fd3b9c/netty-common-4.2.9.Final.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-starter-jackson-test",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-starter-jackson-test",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jackson-test/4.0.2/5e0c3509e92f7fb33b0cffe40e2cae7971ccb31d/spring-boot-starter-jackson-test-4.0.2-sources.jar"
+                        },
+                        {
+                            "name": "spring-boot-starter-jackson-test",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jackson-test/4.0.2/5e0c3509e92f7fb33b0cffe40e2cae7971ccb31d/spring-boot-starter-jackson-test-4.0.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-codec-dns",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-codec-dns",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-dns/4.2.9.Final/94e72675257d9dffa405f0e989de6acda962fed1/netty-codec-dns-4.2.9.Final.jar"
+                        },
+                        {
+                            "name": "netty-codec-dns",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-dns/4.2.9.Final/3d1e60b893db7c676ac053ac4cfd2d1aafcb5343/netty-codec-dns-4.2.9.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-transport-classes-epoll",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-transport-classes-epoll",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.2.9.Final/334ba203f5b5ac6372286d27115605431e5a37d3/netty-transport-classes-epoll-4.2.9.Final.jar"
+                        },
+                        {
+                            "name": "netty-transport-classes-epoll",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.2.9.Final/3348fcf70f7652efa38ea04b54ac7b3b52a43817/netty-transport-classes-epoll-4.2.9.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.osgi",
+                    "name": "org.osgi.service.serviceloader",
+                    "version": "1.0.0",
+                    "artifacts": [
+                        {
+                            "name": "org.osgi.service.serviceloader",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.service.serviceloader/1.0.0/3728ff37909c6a3c1870b3e851342d9f2bd3cc63/org.osgi.service.serviceloader-1.0.0.jar"
+                        },
+                        {
+                            "name": "org.osgi.service.serviceloader",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.service.serviceloader/1.0.0/e5f6e4bb20e1bdced26b2ba0ea55db2d027e330f/org.osgi.service.serviceloader-1.0.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.projectreactor",
+                    "name": "reactor-core",
+                    "version": "3.8.2",
+                    "artifacts": [
+                        {
+                            "name": "reactor-core",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.8.2/c99956419920610e5140fdd22def06288cce19db/reactor-core-3.8.2-sources.jar"
+                        },
+                        {
+                            "name": "reactor-core",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.8.2/874cfa3a39b93eb74e21f13ce9dba537ccc49726/reactor-core-3.8.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.jspecify",
+                    "name": "jspecify",
+                    "version": "1.0.0",
+                    "artifacts": [
+                        {
+                            "name": "jspecify",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/f1a67bbcf2f9f282baf3821046563983f16ca9b2/jspecify-1.0.0-sources.jar"
+                        },
+                        {
+                            "name": "jspecify",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/7425a601c1c7ec76645a78d22b8c6a627edee507/jspecify-1.0.0.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.apache.tomcat.embed",
+                    "name": "tomcat-embed-websocket",
+                    "version": "11.0.15",
+                    "artifacts": [
+                        {
+                            "name": "tomcat-embed-websocket",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/11.0.15/1e217049d87d4710b911450c974d9761f1ffb29f/tomcat-embed-websocket-11.0.15-sources.jar"
+                        },
+                        {
+                            "name": "tomcat-embed-websocket",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/11.0.15/4c0eced7d97fe8404c722d5ff02757a05a6d5033/tomcat-embed-websocket-11.0.15.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.slf4j",
+                    "name": "slf4j-api",
+                    "version": "2.0.17",
+                    "artifacts": [
+                        {
+                            "name": "slf4j-api",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.17/d7da5e7fecb3544b1e32f86dc0ef5d5ecf9f381b/slf4j-api-2.0.17-sources.jar"
+                        },
+                        {
+                            "name": "slf4j-api",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.17/d9e58ac9c7779ba3bf8142aff6c830617a7fe60f/slf4j-api-2.0.17.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-netty",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-netty",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-netty/4.0.2/e561c49105ee54fc55cea790cb4afbb8c447e5a/spring-boot-netty-4.0.2-sources.jar"
+                        },
+                        {
+                            "name": "spring-boot-netty",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-netty/4.0.2/f13227fa50bb61406830eb5baf22c95cc5813256/spring-boot-netty-4.0.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.skyscreamer",
+                    "name": "jsonassert",
+                    "version": "1.5.3",
+                    "artifacts": [
+                        {
+                            "name": "jsonassert",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.skyscreamer/jsonassert/1.5.3/aaa43e0823d2a0e106e8754d6a9c4ab24e05e9bc/jsonassert-1.5.3.jar"
+                        },
+                        {
+                            "name": "jsonassert",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.skyscreamer/jsonassert/1.5.3/a0820ac5c558fe0032d3d400792b184bf960a328/jsonassert-1.5.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-starter-webmvc",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-starter-webmvc",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-webmvc/4.0.2/90563663cdd252544fd7a8139d1c853740d8e61c/spring-boot-starter-webmvc-4.0.2.jar"
+                        },
+                        {
+                            "name": "spring-boot-starter-webmvc",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-webmvc/4.0.2/90563663cdd252544fd7a8139d1c853740d8e61c/spring-boot-starter-webmvc-4.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "ch.qos.logback",
+                    "name": "logback-classic",
+                    "version": "1.5.25",
+                    "artifacts": [
+                        {
+                            "name": "logback-classic",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.5.25/a32d7c26febccdb3fd020899bd7775dfca8fa88f/logback-classic-1.5.25-sources.jar"
+                        },
+                        {
+                            "name": "logback-classic",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.5.25/20c4bbe98fb58f50ee1ca6befd7e7731f13a19d3/logback-classic-1.5.25.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.junit.platform",
+                    "name": "junit-platform-engine",
+                    "version": "6.0.2",
+                    "artifacts": [
+                        {
+                            "name": "junit-platform-engine",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/6.0.2/23b7128fe496c50f577244d0d849761957845891/junit-platform-engine-6.0.2-sources.jar"
+                        },
+                        {
+                            "name": "junit-platform-engine",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/6.0.2/d652eea045999c54c5edc4fbf04e4612f9bf1421/junit-platform-engine-6.0.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.micrometer",
+                    "name": "micrometer-observation",
+                    "version": "1.16.2",
+                    "artifacts": [
+                        {
+                            "name": "micrometer-observation",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-observation/1.16.2/3b18970743a8e024e948936cabe552f081cb7715/micrometer-observation-1.16.2-sources.jar"
+                        },
+                        {
+                            "name": "micrometer-observation",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-observation/1.16.2/c076389e612fe3702628527c21a13743acafddfc/micrometer-observation-1.16.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-validation",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-validation",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-validation/4.0.2/f10acba71e076b3d3606ef334fe8d55de107cd2a/spring-boot-validation-4.0.2.jar"
+                        },
+                        {
+                            "name": "spring-boot-validation",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-validation/4.0.2/904e0161c9d3166eca1726a4fbe4639792f8a6b9/spring-boot-validation-4.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.fasterxml.jackson.core",
+                    "name": "jackson-annotations",
+                    "version": "2.20",
+                    "artifacts": [
+                        {
+                            "name": "jackson-annotations",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.20/6a5e7291ea3f2b590a7ce400adb7b3aea4d7e12c/jackson-annotations-2.20.jar"
+                        },
+                        {
+                            "name": "jackson-annotations",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.20/34b29ba2056358f422b0eb890611dbf15876986e/jackson-annotations-2.20-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.jayway.jsonpath",
+                    "name": "json-path",
+                    "version": "2.10.0",
+                    "artifacts": [
+                        {
+                            "name": "json-path",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.10.0/70ce116c8083ef34509fc71ec221d18fd49fa6b2/json-path-2.10.0-sources.jar"
+                        },
+                        {
+                            "name": "json-path",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.10.0/e1a0b2e6db75401181c9c1c64c6d155ca5c6d608/json-path-2.10.0.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-tomcat",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-tomcat",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-tomcat/4.0.2/15ea6c32100eb37af80084372c67feba419bf55c/spring-boot-tomcat-4.0.2-sources.jar"
+                        },
+                        {
+                            "name": "spring-boot-tomcat",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-tomcat/4.0.2/11d5828b1a9efb6e256f145b1107cc46b64d41a/spring-boot-tomcat-4.0.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.junit.platform",
+                    "name": "junit-platform-launcher",
+                    "version": "6.0.2",
+                    "artifacts": [
+                        {
+                            "name": "junit-platform-launcher",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/6.0.2/5e3a4f00d15162299a901bb3b1c1c328d580f046/junit-platform-launcher-6.0.2.jar"
+                        },
+                        {
+                            "name": "junit-platform-launcher",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/6.0.2/1fe45dac052ad1139918482204196a29e13b212d/junit-platform-launcher-6.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/4.0.2/34be59ce667b78acddc3d4aab66c99ced4a56fbd/spring-boot-4.0.2-sources.jar"
+                        },
+                        {
+                            "name": "spring-boot",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/4.0.2/577e8d07510cf827be02b0dcd080356978b11616/spring-boot-4.0.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.projectreactor.netty",
+                    "name": "reactor-netty-http",
+                    "version": "1.3.2",
+                    "artifacts": [
+                        {
+                            "name": "reactor-netty-http",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.projectreactor.netty/reactor-netty-http/1.3.2/fe41821f692a7498f367703e7fc823e06bf2a94/reactor-netty-http-1.3.2-sources.jar"
+                        },
+                        {
+                            "name": "reactor-netty-http",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.projectreactor.netty/reactor-netty-http/1.3.2/bf09c2adc3fa97286f0af1122bdcd65b4b6056fc/reactor-netty-http-1.3.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-webmvc",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-webmvc",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webmvc/4.0.2/38e00eed171a003cd00ca1f55a453e0cc8c5529e/spring-boot-webmvc-4.0.2.jar"
+                        },
+                        {
+                            "name": "spring-boot-webmvc",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webmvc/4.0.2/d1ceb616831f6c8d86b6b7b9bd7b44ee9ed574c7/spring-boot-webmvc-4.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-resttestclient",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-resttestclient",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-resttestclient/4.0.2/5abcaf0f3dcc21e21bfbca9444170af086414eed/spring-boot-resttestclient-4.0.2.jar"
+                        },
+                        {
+                            "name": "spring-boot-resttestclient",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-resttestclient/4.0.2/24ce6cc47bd83e37085450cf498a89e460008f9d/spring-boot-resttestclient-4.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.netty",
+                    "name": "netty-codec-native-quic",
+                    "version": "4.2.9.Final",
+                    "artifacts": [
+                        {
+                            "name": "netty-codec-native-quic",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-native-quic/4.2.9.Final/3f0ab9d43f00c8a02ba22702aff482f598863642/netty-codec-native-quic-4.2.9.Final-linux-x86_64.jar"
+                        },
+                        {
+                            "name": "netty-codec-native-quic",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-native-quic/4.2.9.Final/bfeada59431a1014807c93ed8114794263193298/netty-codec-native-quic-4.2.9.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.slf4j",
+                    "name": "jul-to-slf4j",
+                    "version": "2.0.17",
+                    "artifacts": [
+                        {
+                            "name": "jul-to-slf4j",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/2.0.17/524cb6ccc2b68a57604750e1ab8b13b5a786a6aa/jul-to-slf4j-2.0.17.jar"
+                        },
+                        {
+                            "name": "jul-to-slf4j",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/2.0.17/ddf86d49b5af339fd69a97d72e8ecf73a7953f6b/jul-to-slf4j-2.0.17-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework",
+                    "name": "spring-core",
+                    "version": "7.0.3",
+                    "artifacts": [
+                        {
+                            "name": "spring-core",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/7.0.3/292f126c16f61df4c71efc21d3ba5d140b84da2b/spring-core-7.0.3-sources.jar"
+                        },
+                        {
+                            "name": "spring-core",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/7.0.3/2072a89e347c63567a83349eb5908131ce6ea601/spring-core-7.0.3.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-starter-logging",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-starter-logging",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/4.0.2/96f2e505eb788327b3b170bf965427eecb0717f/spring-boot-starter-logging-4.0.2-sources.jar"
+                        },
+                        {
+                            "name": "spring-boot-starter-logging",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/4.0.2/96f2e505eb788327b3b170bf965427eecb0717f/spring-boot-starter-logging-4.0.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "jakarta.activation",
+                    "name": "jakarta.activation-api",
+                    "version": "2.1.4",
+                    "artifacts": [
+                        {
+                            "name": "jakarta.activation-api",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/2.1.4/9e5c2a0d75dde71a0bedc4dbdbe47b78a5dc50f8/jakarta.activation-api-2.1.4.jar"
+                        },
+                        {
+                            "name": "jakarta.activation-api",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/2.1.4/a37bf73633c6a43e25953074ac6a28a67f0d9305/jakarta.activation-api-2.1.4-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.springframework.boot",
+                    "name": "spring-boot-webmvc-test",
+                    "version": "4.0.2",
+                    "artifacts": [
+                        {
+                            "name": "spring-boot-webmvc-test",
+                            "classifier": "sources",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webmvc-test/4.0.2/2ed456e52c0c953b518d42fab91696472b2f7fe/spring-boot-webmvc-test-4.0.2-sources.jar"
+                        },
+                        {
+                            "name": "spring-boot-webmvc-test",
+                            "path": "/home/karim/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webmvc-test/4.0.2/cbcca1ab32c9ab6179e517d64be5212024a3ab70/spring-boot-webmvc-test-4.0.2.jar"
                         }
                     ]
                 }
