@@ -1,0 +1,4 @@
+spring:
+  datasource:
+     url: jdbc:tc:postgresql:14.12:///
+     #42.7.10
